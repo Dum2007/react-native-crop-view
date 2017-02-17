@@ -1,0 +1,27 @@
+{
+  "name": "react-native-crop-view",
+  "version": "0.0.1",
+  "description": "Clipping View or Image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanJun2017/react-native-crop-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-crop",
+    "react-native-crop-image",
+    "react-native-crop-view",
+    "crop",
+    "image"
+  ],
+  "author": "RanJun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RanJun2017/react-native-crop-view/issues"
+  },
+  "homepage": "https://github.com/RanJun2017/react-native-crop-view#readme"
+}
